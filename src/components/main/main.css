@@ -1,0 +1,15 @@
+.main {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main .divpic {
+  display: flex;
+  border: 1px solid yellow;
+  border-radius: 50px;
+}
+.main .divpic .picc {
+  border-radius: 50px;
+}/*# sourceMappingURL=main.css.map */
